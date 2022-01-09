@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Merlyn9
-- 👀 I’m interested in python and full stack development
-- 🌱 I’m currently learning python and full stack development
-- 💞️ I’m looking to collaborate on python and web development.
-- 📫 How to reach me roninmerlyn@gmail.com
+- 👀 I’m currently coding websites with HTML and CSS
+- 🌱 I’m currently learning python and working toward a certificate from python.org
+- 💞️ I am currently studying a second certificate for cloud practitoner
+- 📫 If you should need to reach out, please email me at wizard.dev.ops@gmail.com
 
-<!---
-Merlyn9/Merlyn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is to be a portfolio of my work.  So I must start filling my repository, so the people will have something to gaze upon
+
