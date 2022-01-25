@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Merlyn9
+- I am currently on a mission to land my first tech job.
+- Here is what I have been up to.
 - 👀 I’m currently coding websites with HTML and CSS
 - 🌱 I’m currently learning python and working toward a certificate from python.org
 - 💞️ I am currently studying a second certificate for cloud practitoner
