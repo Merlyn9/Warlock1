@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Merlyn9
-- I am currently on a mission to land my first tech job.
+- I am currently on a mission to land a job in tech
 - Here is what I have been up to.
 - 👀 I’m currently coding websites with HTML and CSS
-- 🌱 I’m currently learning python and working toward a certificate from python.org
-- 💞️ I am currently studying a second certificate for cloud practitoner
-- 📫 If you should need to reach out, please email me at wizard.dev.ops@gmail.com
+- 🌱 I’m currently learning python preparing for an exam.
+- 💞️ I am currently enrolled to sit for an exam for a certificate for cloud practitoner
+- 📫 If you should need to reach out, roninmerlyn@gmail.com
 
-This is to be a portfolio of my work.  So I must start filling my repository, so the people will have something to gaze upon
-
+Working on a portfolio and practice for developer certificate by Amazon
