@@ -1,13 +1,16 @@
 !/bin/bash
+#Before you start Update and Upgrade
 sudo apt update 
 
 sudo apt upgrade 
 
+#Cmatrix
 sudo apt install cmatrix
 
+#Libre Office
 sudo apt install libreoffice 
 
-
+#Visual Studio Code
 
 sudo apt-get install wget gpg
 
@@ -25,12 +28,13 @@ sudo apt update
 
 sudo apt install code
 
-
+#Node JS
 sudo apt install npm 
 
 sudo npm install -g n
 
 n lts
+
 #Virtual Box Option:
-#sudo apt install virtualbox 
+sudo apt install virtualbox 
 
