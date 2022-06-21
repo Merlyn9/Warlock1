@@ -4,6 +4,7 @@
 - 👀 I’m currently coding websites with showing my work in github. In my repository
 - 🌱 I’m currently learning python preparing for an exam.
 - 💞️ I am working with AWS and that is fun.
+- Decided to also study some React it looks fun and can  help me double down on the JavaScript.
 - 📫 If you should need to reach out, roninmerlyn@gmail.com
 
 I am also working on a portfolio and a couple of websites. I have a menu site for my bodega, a gallery site for an artist friend of mine and a portfolio site for me and all my services.
