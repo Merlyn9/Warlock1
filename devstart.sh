@@ -30,10 +30,9 @@ sudo apt install code
 
 #Node JS
 sudo apt install npm 
-
+npm install node
 sudo npm install -g n
-
-n lts
+sudo n lts
 
 #Virtual Box Option:
 sudo apt install virtualbox 
