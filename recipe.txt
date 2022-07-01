@@ -1,0 +1,206 @@
+Cure Disease
+
+Charred Skeever Hide
+Hawk Feathers
+Mudcrab Chitin
+Vampire Dust
+
+Restore Health
+
+Blister Wort
+Blue Dartwing
+Blue Mountain Flower
+Butterfly Wing
+Charred Skeever Hide
+Daedra Heart
+Eye of Sabre Cat
+Imp Stool
+Rock Warbler Egg
+Swamp Fungal Pod
+Wheat
+
+Fortify Health
+
+Bear Claws
+Blue Mountain Flower
+Giant's Toe
+Glowing Mushroom
+Hanging Moss
+Wheat
+
+Regenerate Health
+
+Garlic
+Juniper Berries
+Luna Moth Wing
+Namira's Rot
+Nordic Barnacle
+Vampire Dust
+
+Restore Magicka
+
+Briar Heart
+Creep Cluster
+Dwarven Oil
+Ectoplasm
+Elves Ear
+Fire Salts
+Frost Salts
+Green Lichen
+Grass Pod
+Human Flesh
+Moon Sugar
+Mora Tapinella
+Pearl
+Red Mountain Flower
+Taproot
+Vampire Dust
+White Cap
+
+Fortify Magicka
+
+Briar Heart
+Ectoplasm
+Histcarp
+Jazbay Grapes
+Red Mountian FLower
+Tundra Cotton
+Void Salts
+
+Regenerate Magicka
+
+Dwarven Oil
+Fire Salts
+Garlic
+Jazbay Grapes
+Moon Sugar
+Salt Pile
+Taproot
+
+Restore Stamina
+
+Bear Claws
+Bee
+Chared Skeever Hide
+Eye of Sabre Cat
+Hawk Beak
+Histcarp
+Honeycomb
+Large Antlers
+Mudcrab Chitin
+Orange Dartwing
+Pearl
+Pine Thrush Egg
+Powdered Mammoth Tusk
+Purple Mountain Flower
+Sabre Cat Tooth
+Silverside Perch
+Small Pearl
+Torchbug Thorax
+Wisp Wrappings
+
+Fortify Stamina
+
+Charus Eggs
+Garlic
+Large Antlers
+Lavender
+Slaughterfish Egg
+Torchbug Thorax
+
+Regenerate Stamina
+
+Bee 
+Fly Amanita
+Mora Tapinella
+Scaly Pholiota
+
+Resist Fire
+
+Berit's Ashes
+Bone Meal
+Dragon's Tounge
+Elves Ear
+Fire Salts
+Fly Amanita
+Mudcrab Chitin
+Snowberries
+
+Resist Frost
+
+Frost Mirriam
+Frost Salts
+Hawk Beak
+Moon Sugar
+Purple Mountain Flower
+Silverside Perch
+Slaughterfish Scales
+Small Pearl
+Snowberries
+Thistle Branch
+
+Resist Shock
+
+Blue Dartwing
+Glow Dust
+Glowing Mushroom
+Hawk Beak
+Pearl
+Pine Thrush Egg
+Snowberries
+Swamp Fungal Pod
+
+Resist Poison
+
+Beehive Husk
+Charred Skeever Hide
+Falmer Ear
+Garlic
+Grass Pod
+Mudcrab Chitin
+Slaughterfish Scales
+Thistle Branch
+Troll Fat
+
+Fortify Conjuration
+
+Berit's Ashes
+Blue Butterfly Wing
+Blue Mountain Flower
+Bone Meal
+Frost Salts
+Hagraven Feathers
+Lavender
+
+Fotify Enchanting
+
+Blue Butterfly Wing
+Hagraven Feathers
+Snowberries
+Spriggan Sap
+
+Fortify Heavy Armor
+
+Ice Wraiths Teeth
+Sabre Cat Tooth
+Slaughterfish Scales
+Thistle Branch
+White Cap
+
+Fortify Illusion
+
+Dragon's Tounge
+Dwarven Oil
+Mora Tapinella
+Scaly Pholiota
+Taproot
+
+Fortify Sneak
+
+Abecean Longfin
+Beehive Husk
+Frost Mirriam
+Hawk Feathers
+Human Flesh
+Powdered Mammoth Tusk
+Purple Mountain Flower
