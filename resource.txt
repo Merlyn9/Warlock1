@@ -1,0 +1,109 @@
+https://www.toptal.com/
+https://www.kanbanflow.com/
+https://code.visualstudio.com/
+https://www.balena.io/etcher/
+https://www.virtualbox.org/
+https://ubuntu.com/download/desktop
+https://www.kali.org/get-kali/#kali-live
+https://www.microsoft.com/software-download/windows11
+https://sourceforge.net/projects/peppermintos/files/PeppermintOS-amd64.iso/download
+https://www.parrotsec.org/download/
+
+http://codepad.org/
+https://ideone.com/
+
+https://www.python.org/
+Create a developers environment.
+https://www.pythoninstitute.org/
+https://pycharm-community-edition.en.softonic.com/
+https://www.tensorflow.org/
+
+sudo apt install idle
+idle = opens python development environment
+
+https://nodejs.org/en/
+
+   <body><h1>Develop anything.  Perhaps a portfolio.</h1><br>
+        <h2></h2>
+       <h1><a href="https://www.peopleperhour.com/site/login">People per Hour</a><br>
+           <a href="https://www.dice.com/">Dice</a>
+           https://www.upwork.com/
+           https://latium.org/
+           https://hashnode.com/
+           https://aws.amazon.com/
+        </h1>
+<br>
+<br>
+
+     
+    
+    </body>
+
+  <p>sudo apt install git<br>
+            git --version<br> 
+            Configure:<br>
+
+        </p>git config --global user.name "your_name"<br>
+            git config --global user.email "your_email_address"<br>
+
+            <p><h1><a href="https://www.balena.io/etcher/">Balena Etcher</a><br></h1>
+         <h3>After installing Balena Etcher via Link above:<br>
+         unzip balena-etcher-electron-1.7.9-linux-x64.zip<br>
+         sudo apt-get install zenity<br>
+         sudo mv balenaEtcher-1.7.9-x64.AppImage /opt<br>
+        sudo apt-get install fuse<br>
+        /opt/balenaEtcher-1.7.9-x64.AppImage<br></h3>
+
+sudo snap install nmap
+https://nmap.org/book/man.html
+
+https://www.immunityinc.com/products/debugger/
+
+Google Dev Tools
+https://developer.chrome.com/docs/
+
+sudo apt install net-tools
+https://www.mankier.com/package/net-tools
+
+Wireshark
+sudo apt install wireshark
+https://www.wireshark.org/
+
+React
+https://reactjs.org/docs/getting-started.html
+
+Flask
+https://flask.palletsprojects.com/en/latest/
+
+Requests
+https://requests.readthedocs.io/en/master/
+
+Express
+https://expressjs.com/
+https://www.mongodb.com/cloud/atlas/register
+
+https://github.com/
+https://www.theodinproject.com/
+https://www.freecodecamp.org/
+https://play.picoctf.org/login
+https://www.hackthebox.com/
+
+
+https://anchor.fm/
+https://hashnode.com/
+
+https://circleci.com/
+https://www.nagios.org/
+https://www.jenkins.io/
+https://maven.apache.org/
+
+https://www.redhat.com/fr/blog/new-free-ansible-course
+
+Ubuntu Hiring
+https://canonical.com/careers/all
+Eclipse Hiring
+https://eclipsefoundation.applytojob.com/apply
+
+upwork.com
+fivver.com
+peopleperhour.com
